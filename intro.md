@@ -4,6 +4,10 @@ Arin decides to trust the strange symbol on the map and follows it into the dens
 
 - [Enter antonios1](antonios1.md)
 
+Arin decides to wait until night, hoping the stars will reveal the map’s true direction—unaware that some creatures only appear after dark.
+
+
+- [Enter riyansidonga](riyansidongas1.md)
 Unsure of the map’s meaning, Arin returns to the village to consult the Elder, whose sudden silence upon seeing the symbol suggests a dangerous truth long buried.
 
 [Enter mihirs1](mihirs1.md)
