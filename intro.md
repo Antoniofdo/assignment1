@@ -6,5 +6,5 @@ Arin decides to trust the strange symbol on the map and follows it into the dens
 
 Arin decides to wait until night, hoping the stars will reveal the map’s true direction—unaware that some creatures only appear after dark.
 
-
 - [Enter riyansidonga](riyansidongas1.md)
+
