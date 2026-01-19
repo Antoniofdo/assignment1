@@ -3,3 +3,7 @@ At dawn, when the fog still clung to the earth like a living thing, Arin discove
 Arin decides to trust the strange symbol on the map and follows it into the dense forest, where the trees grow so close together that daylight barely reaches the ground.
 
 - [Enter antonios1](antonios1.md)
+
+Unsure of the map’s meaning, Arin returns to the village to consult the Elder, whose sudden silence upon seeing the symbol suggests a dangerous truth long buried.
+
+[Enter mihirs1](mihirs1.md)
