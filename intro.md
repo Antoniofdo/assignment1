@@ -8,3 +8,6 @@ Arin decides to wait until night, hoping the stars will reveal the map’s true 
 
 
 - [Enter riyansidonga](riyansidongas1.md)
+Unsure of the map’s meaning, Arin returns to the village to consult the Elder, whose sudden silence upon seeing the symbol suggests a dangerous truth long buried.
+
+[Enter mihirs1](mihirs1.md)
