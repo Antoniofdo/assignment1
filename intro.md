@@ -2,6 +2,4 @@ At dawn, when the fog still clung to the earth like a living thing, Arin discove
 
 Arin decides to trust the strange symbol on the map and follows it into the dense forest, where the trees grow so close together that daylight barely reaches the ground.
 
-- [Enter antonios1][antonios1.md]
-
-[antonios1]: antonio1.md
+- [Enter antonios1](antonios1.md)
